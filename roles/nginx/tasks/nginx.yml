@@ -1,0 +1,5 @@
+---
+- name: NGINX installation play
+  apt:
+    name: nginx
+    state: present

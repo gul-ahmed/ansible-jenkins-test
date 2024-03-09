@@ -1,0 +1,6 @@
+---
+- name: Play To Run the NGINX Role
+  hosts: slave
+  become: true
+  roles:
+    - nginx
