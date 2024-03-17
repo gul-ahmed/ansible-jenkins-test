@@ -9,7 +9,7 @@
 #   - A hostname/ip can be a member of multiple groups
 
 # Ex 1: Ungrouped hosts, specify before any group headers:
-slave ansible_host=172.31.86.4
+slave ansible_host=172.31.43.2
 
 ## green.example.com
 ## blue.example.com
