@@ -1,6 +1,6 @@
 ---
 - name: Install Apache
-  hosts: machine2
+  hosts: slave
   become: yes
 
   tasks:
